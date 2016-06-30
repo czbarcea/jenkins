@@ -22,13 +22,13 @@ Vagrant.configure(2) do |config|
   end
 
  # config.vm.provider :aws do |aws, override|
-  #  aws.access_key_id = "AAAAIIIIYYYY4444AAAA”
-   # aws.secret_access_key = "c344441LooLLU322223526IabcdeQL12E34At3mm”
+  #  aws.access_key_id = "AAAAXXXXXXXXXXX444AAAA”
+   # aws.secret_access_key = "bla44441LooLLU322223526IabcdeQL12E3bla”
     # aws.keypair_name = "iheavy"
 
    # aws.ami = "ami-7747d01e"
     
-  #  override.ssh.username = "czbarcea"
+  #  override.ssh.username = "username"
   #  override.ssh.private_key_path = "~/.ssh/id_rsa"
 #    end
 # end
